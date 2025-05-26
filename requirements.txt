@@ -1,0 +1,7 @@
+re
+os
+tkinter
+requests
+language_tool_python
+docx2txt
+PyMuPDF
