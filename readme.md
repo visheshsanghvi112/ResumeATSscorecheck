@@ -3,6 +3,9 @@
 
 This is a Python-based tool that analyzes resumes in `.pdf` and `.docx` formats. It extracts relevant sections, evaluates contact and personal information, checks grammar, and suggests improvements based on resume writing best practices.
 
+pip install requests language_tool_python docx2txt PyMuPDF
+
+
 ---
 
 ## 📌 Features
